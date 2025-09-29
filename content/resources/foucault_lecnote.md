@@ -5,6 +5,8 @@ description: Notes from the lecture and class discussion on the writings and ide
 file: /courses/17-960-foundations-of-political-science-fall-2004/1ef513697beb314486ea08c09ea6d241_foucault_lecnote.pdf
 file_size: 70157
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -37,6 +37,7 @@
     "website": "17-960-foundations-of-political-science-fall-2004"
   },
   "course_title": "Foundations of Political Science",
+  "hide_download": true,
   "course_description": "This subject, required of all first-year PhD students in political science, introduces fundamental ideas, theories, and methods in contemporary political science through the study of a small number of major books and articles that are intrinsically good and have been influential in the field. The first semester focuses principally on issues of political theory and international relations, while the second\u00a0focuses principally on American and comparative politics. Readings in the fall semester from Rawls, A Theory of Justice; Hayek, The Constitution of Liberty; Arrow Social Choice and Individual Values; Olson, The Logic of Collective Action; Waltz, Theory of International Relations; Bull, The Anarchical Society; Foucault, Discipline and Punish; Elster, Cement of Society; Keohane, After Hegemony, Allison and Zelikow, The Essence of Decision, and Doyle, \"Kant, Liberal Legacies, and Foreign Affairs.\"\n",
   "department_numbers": [
     "17"
@@ -47,6 +48,7 @@
     "content": "59396407-7ba6-bf6e-5f1f-513820b84851",
     "website": "17-960-foundations-of-political-science-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments with Examples"
