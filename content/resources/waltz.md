@@ -5,8 +5,6 @@ description: Example of a student essay submitted during the semester. (Courtesy
 file: /courses/17-960-foundations-of-political-science-fall-2004/7f6449f706afcfeaf37861dcd5245bcd_waltz.pdf
 file_size: 73349
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

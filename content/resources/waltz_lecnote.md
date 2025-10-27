@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-960-foundations-of-political-science-fall-2004/1029d0f2051b5df2192ba4ce9908fa7c_waltz_lecnote.pdf
 file_size: 80423
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

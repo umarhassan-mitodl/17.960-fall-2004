@@ -5,8 +5,6 @@ description: Notes from the lecture and class discussion on the writings and ide
 file: /courses/17-960-foundations-of-political-science-fall-2004/99918a82b2cdb81825e281ae81f0efee_hayek_lecnote.pdf
 file_size: 80673
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

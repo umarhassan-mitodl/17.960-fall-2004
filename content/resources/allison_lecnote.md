@@ -5,8 +5,6 @@ description: Notes from the lecture and class discussion on the writings and ide
 file: /courses/17-960-foundations-of-political-science-fall-2004/b6560a1281ee4bec45cf8c63ac28108f_allison_lecnote.pdf
 file_size: 74980
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

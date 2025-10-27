@@ -4,8 +4,6 @@ description: Notes from the lecture on the Voting Paradox and Social Choice Theo
 file: /courses/17-960-foundations-of-political-science-fall-2004/a380ca5106d62fe519c7198f16555d85_social_lecnote.pdf
 file_size: 133560
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
